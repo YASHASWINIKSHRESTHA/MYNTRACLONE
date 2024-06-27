@@ -1,2 +1,1 @@
-# MYNTRACLONE
-Myntra clone using HTML,CSS and javascript.
+# myntra_functional_clone
